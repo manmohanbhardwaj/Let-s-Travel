@@ -1,1 +1,2 @@
-# Manmohan
+# Let's Travel
+Hello Everyone, It is basically a travel website with articles on various landmarks from around the world. This website consists of the menu, the slider with a series of images and, of course, different articles about the landmarks. It also has a footer which is going to have the copyright and the Contact Us button. When we click on this button, the Contact Form pops up. This project is built on HTML, CSS and Bootstrap.
